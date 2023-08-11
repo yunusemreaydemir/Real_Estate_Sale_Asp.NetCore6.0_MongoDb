@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LoginRegisterLayout.cshtml";
+}
+<br />
+<br />
+<div class=" w3l-login-form">
+    <h2>Üye Ol</h2>
+    <form method="POST">
+        <div class=" w3l-form-group">
+            <label>AD</label>
+            <div class="group">
+                <i class="fas"></i>
+
+                <input type="text" name="Name" class="form-control" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>SOYAD</label>
+            <div class="group">
+                <i class="fas"></i>
+                <input type="text" name="Surname" class="form-control" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>KULLANICI ADI</label>
+            <div class="group">
+                <i class="fas"></i>
+                <input type="text" name="UserName" class="form-control" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>E MAİL</label>
+            <div class="group">
+                <i class="fas"></i>
+                <input type="text" name="Email" class="form-control" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>TELEFON NUMARASI</label>
+            <div class="group">
+                <i class="fas"></i>
+                <input type="text" name="Phone" class="form-control" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>ŞİFRE</label>
+            <div class="group">
+                <i class="fas"></i>
+                <input type="password" name="Password" class="form-control" required="required" />
+            </div>
+        </div>
+        <button type="submit">Kayıt Ol</button>
+    </form>
+    <p class=" w3l-register-p">
+        Hesabın Var Mı ?<a href="/Login/Index/" class="register">  Giriş Yap</a>
+    </p>
+</div>

@@ -1,0 +1,621 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RealEstateConsume.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RealEstateConsume.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Login\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\css\\style.css",
+      "PackagePath": "staticwebassets\\Login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\images\\cover4.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\cover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\index.html",
+      "PackagePath": "staticwebassets\\Login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\Login\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\Login\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Login\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\1.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\2.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\3.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\4.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\5.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\6.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a1.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a2.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a3.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a4.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a5.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\images_estate\\a6.jpg",
+      "PackagePath": "staticwebassets\\images_estate\\a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\about.html",
+      "PackagePath": "staticwebassets\\real_estate_sale\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\404.svg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client1.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client2.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client3.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client4.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client5.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client5.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\client6.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\client6.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\customer.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\customer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\photo.jpeg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\photo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\stats.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\stats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\team6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\who.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\who.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\images\\who1.jpg",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\images\\who1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\real_estate_sale\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\contact.html",
+      "PackagePath": "staticwebassets\\real_estate_sale\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\index.html",
+      "PackagePath": "staticwebassets\\real_estate_sale\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\listing.html",
+      "PackagePath": "staticwebassets\\real_estate_sale\\listing.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\property-single.html",
+      "PackagePath": "staticwebassets\\real_estate_sale\\property-single.html"
+    },
+    {
+      "Id": "C:\\Users\\AYDEMİR\\Desktop\\BitenProjeler\\RealEstateSale\\RealEstateConsume\\wwwroot\\real_estate_sale\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\real_estate_sale\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RealEstateConsume.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RealEstateConsume.props",
+      "PackagePath": "build\\RealEstateConsume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RealEstateConsume.props",
+      "PackagePath": "buildMultiTargeting\\RealEstateConsume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RealEstateConsume.props",
+      "PackagePath": "buildTransitive\\RealEstateConsume.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

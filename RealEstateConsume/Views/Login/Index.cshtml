@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LoginRegisterLayout.cshtml";
+}
+
+<h1>HOŞGELDİNİZ</h1>
+<div class=" w3l-login-form">
+    <h2>Giriş Yap</h2>
+    <form method="POST">
+        <div class=" w3l-form-group">
+            <label>EMAİL</label>
+            <div class="group">
+                <i class="fas fa-user"></i>
+                <input type="text" name="Email" class="form-control" placeholder="Email Adresiniz" required="required" />
+            </div>
+        </div>
+        <div class=" w3l-form-group">
+            <label>ŞİFRE</label>
+            <div class="group">
+                <i class="fas fa-unlock"></i>
+                <input type="password" name="Password" class="form-control" placeholder="Şifre" required="required" />
+            </div>
+        </div>
+        <button type="submit">GİRİŞ YAP</button>
+    </form>
+    <p class=" w3l-register-p">
+        Hesabın Yok Mu ?<a href="/Register/Index/" class="register">  Kayıt Ol</a>
+    </p>
+</div>
+
+

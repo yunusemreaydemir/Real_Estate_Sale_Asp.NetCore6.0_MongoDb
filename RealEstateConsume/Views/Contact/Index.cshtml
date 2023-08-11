@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="w3l-about-breadcrumb">
+    <div class="breadcrumb-bg breadcrumb-bg-about pt-5">
+        <div class="container pt-lg-5 py-3">
+        </div>
+    </div>
+</section>
+<section class="w3l-breadcrumb">
+    <div class="container">
+        <ul class="breadcrumbs-custom-path">
+            <li><a href="#">Ana Sayfa</a></li>
+            <li class="active"><span class="fa fa-angle-right mx-2" aria-hidden="true"></span> İletişim</li>
+        </ul>
+    </div>
+</section>
+<!-- contacts -->
+<section class="w3l-contact-7 pt-5" id="contact">
+    <div class="contacts-9 pt-lg-5 pt-md-4">
+        <div class="container">
+            <div class="top-map">
+                <div class="row map-content-9">
+                    <div class="col-lg-8">
+                        <div class="contact-form">
+                            <h5 class="mb-2 text-center">Yorum Yap</h5>
+                            <p class="mb-4 text-center">Hakkımızda düşüncelerinizi belirtin</p>
+                            <form method="post">
+                                <div class="input-field">
+                                    <input type="text" name="Name" id="w3lName" placeholder="Adınız"
+                                           required="">
+                                </div>
+                                <div class="input-field mt-4">
+                                    <input type="text" name="Surname" id="w3lSender" placeholder="Soyadınız"
+                                           required="">
+                                </div>
+                                <div class="input-field mt-4">
+                                    <input type="text" name="UserTitle" id="w3lSender" placeholder="Ünvanınız"
+                                           required="">
+                                </div>
+                                <div class="input-field mt-4">
+                                    <textarea name="Content" id="w3lMessage" placeholder="Mesajınız"></textarea>
+                                </div>
+
+                                <button type="submit" class="btn btn-primary btn-style mt-3">Gönder</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 cont-details">
+                        <address>
+                            <h5 class="">Ofisimiz</h5>
+                            <p>
+                                <span class="fa fa-map-marker"></span>Bursa / Osmangazi, Zafer Plaza
+                            </p>
+
+                            <h5 class="mt-4 pt-lg-3">İletişim</h5>
+                            <p>
+                                <span class="fa fa-mobile"></span> <strong>Telefon No:</strong>
+                                <a href="tel:+9(0555) 999 22 11"> (+90) 543 234 23 23</a>
+                            </p>
+                            <p>
+                                <span class="fa fa-envelope"></span> <strong>Email :</strong>
+                                <a href="mailto:uguremlak@gmail.com"> aydemir@gmail.com</a>
+                            </p>
+                        </address>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="map mt-5">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.964527312909!2d29.05694277599969!3d40.1876028714774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3de294512a1d%3A0x37eea420196600f0!2zWmFmZXIgUGxhemEgQWzEscWfdmVyacWfIE1lcmtlemk!5e0!3m2!1str!2str!4v1691779508470!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</section>
+
